@@ -1,5 +1,5 @@
 public class Context {
-    Strategy arriveMethod;
+    private Strategy arriveMethod;
     public Context(){}
 
     public void SetArriveMethod(Strategy cur) {
